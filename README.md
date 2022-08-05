@@ -15,3 +15,5 @@ Homework 1
 
 4. Удаляем контакт
    https://prnt.sc/ziLqYee6LTzC
+   <img width="760" alt="Знімок екрана 2022-08-05 о 16 57 53" src="https://user-images.githubusercontent.com/87204570/183099595-3d4a2ef8-4aa0-48e0-a868-ad5dae19d6bb.png">
+
