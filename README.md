@@ -2,6 +2,8 @@ Homework 1
 
 1. Получаем и выводим весь список контактов в виде таблицы (console.table)
    https://prnt.sc/F0k177AwEvKa
+   <img width="760" alt="Знімок екрана 2022-08-05 о 16 45 07" src="https://user-images.githubusercontent.com/87204570/183098943-77f6e2da-b67d-40c0-8af7-b7a4c8380c47.png">
+
 
 2. Получаем контакт по id
    https://prnt.sc/MxhCXCiztjRw
