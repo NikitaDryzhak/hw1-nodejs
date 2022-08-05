@@ -11,6 +11,7 @@ Homework 1
 
 3. Добавялем контакт
    https://prnt.sc/n-9Xt6a_-R11
+   <img width="760" alt="Знімок екрана 2022-08-05 о 16 54 54" src="https://user-images.githubusercontent.com/87204570/183099474-b0fb298e-54ca-44cc-bbfe-bad72b1a217c.png">
 
 4. Удаляем контакт
    https://prnt.sc/ziLqYee6LTzC
